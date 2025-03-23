@@ -25,4 +25,4 @@ While a Trello Kanban will be utilized personally, progress will be tracked belo
 | Completed  | Secondary Requirements |
 | ------------- | ------------- |
 | ☐  | Power BI Dashboard |
-| ☐  | Flask Web App |
+| ☐  | Flask Web App | 
