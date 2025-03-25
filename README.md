@@ -12,12 +12,11 @@ While a Trello Kanban will be utilized personally, progress will be tracked belo
 
 | Completed  | Primary Requirement | Description |
 | ------------- | ------------- | ------------- |
-| ☐  | Choose data source. | |
-| ☐  | Choose cloud provider. | |
-| ☐  | Get flight information data and test local PySpark transformations. | |
-| ☐  | Test local PySpark transformations. | |
-| ☐  | Set up cloud storage. | |
-| ☐  | Upload raw data. | |
+| ☑  | Choose data source. | |
+| ☑  | Choose cloud provider. | |
+| ☑  | Get flight information data and test local PySpark transformations. | |
+| ☑  | Set up cloud storage. | |
+| ☑  | Upload raw data. | |
 | ☐  | Build transformation script to run in cloud. | |
 | ☐  | Save processed output. | |
 | ☐  | Set up automation. | |
